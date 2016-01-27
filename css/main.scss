@@ -51,3 +51,68 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+html, body {
+	height: 100%;
+}
+
+.wrapper {
+    max-width: 100%;
+}
+
+.wrapper-left{
+	width: 20%;
+    float: left;
+    height: 100%;
+    background: url(../img/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wrapper-right{
+	width: 80%;
+	float: left;
+}
+
+.site-nav {
+    float: none;
+}
+
+.site-nav .page-link {
+    width: 100%;
+    display: block;
+}
+
+.roman-photo{
+	border-radius: 50%;
+	overflow: hidden;
+    margin: 0 0 15px 0;
+}
+
+.site-header {
+    border-top: none;
+    border-bottom: none;
+    min-height: 56px;
+    position: relative;
+}
+
+.wrapper-left .wrapper{
+	padding-top: 30px;
+}
+
+.site-title {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: 0;
+    margin-bottom: 0;
+    float: none;
+    color: #D9D9D9;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.site-title, .site-title:visited {
+    color: #D9D9D9;
+}
