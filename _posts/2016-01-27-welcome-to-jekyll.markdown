@@ -4,7 +4,7 @@ title:  "Первый пост"
 date:   2016-01-27 15:11:34 +0500
 categories: Инфа
 ---
-Текст просто текст первого поста!
+Это просто текс поста который я редактирую.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
